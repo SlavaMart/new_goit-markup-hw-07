@@ -1,0 +1,11 @@
+$main-color: #eee;
+
+body {
+  $main-color: red;
+
+  background-color: $main-color;
+}
+
+.title {
+  background-color: aqua;
+}
