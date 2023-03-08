@@ -1,29 +1,30 @@
-:root {
-    /*fonts*/
+/* :root {
+    fonts
     --main-font: 'Roboto', sans-serif;
     --secondary-font: 'Raleway', sans-serif;
 
-    /*text colors*/
+    text colors
     --main-txt-cl: #212121;
     --contct-txt-cl: #757575;
     --acceny-txt-cl: #2196F3;
     --white-txt-cl: #FFFFFF;
     --txt-logo-cl: #000000;
 
-    /*bg colors*/
+    bg colors
     --dark-bg-cl: #2F303A;
     --ligh-bg-cl: #F5F4FA;
     --btn-bg-hover-cl: #188CE8;
     --card-bg: #EEEEEE;
     --modal-form-bg: #FFFFFF;
 
-    /*others*/
+    others
     --columns-cl: #7000FF;
     --cards-cl: #FFFFFF;
     --line-cl: #ECECEC;
-}
+    --link-cl: #AFB1B8;
+} */
 
-body {
+/* body {
     font-family: var(--main-font);
     font-size: 14px;
     line-height: 1.15;
@@ -32,10 +33,10 @@ body {
 
 .no-scroll {
     overflow: hidden;
-}
+} */
 
 /* reset styles */
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -55,7 +56,7 @@ ul {
     list-style: none;
     padding: 0;
     margin: 0;
-}
+} */
 
 /* base styles */
 

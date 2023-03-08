@@ -1,64 +1,26 @@
-/* utils styles */ /*Block 1*/
+/*Block 1*/
 :root {
   /*fonts*/
   --main-font: "Roboto", sans-serif;
   --secondary-font: "Raleway", sans-serif;
+
   /*text colors*/
   --main-txt-cl: #212121;
   --contct-txt-cl: #757575;
   --acceny-txt-cl: #2196f3;
   --white-txt-cl: #ffffff;
   --txt-logo-cl: #000000;
+
   /*bg colors*/
   --dark-bg-cl: #2f303a;
   --ligh-bg-cl: #f5f4fa;
   --btn-bg-hover-cl: #188ce8;
   --card-bg: #eeeeee;
   --modal-form-bg: #ffffff;
+
   /*others*/
   --columns-cl: #7000ff;
   --cards-cl: #ffffff;
   --line-cl: #ececec;
   --link-cl: #afb1b8;
 }
-
-/* base styles */
-/*Block 2*/
-body {
-  font-family: var(--main-font);
-  font-size: 14px;
-  line-height: 1.15;
-  color: var(--main-txt-cl);
-}
-
-.no-scroll {
-  overflow: hidden;
-}
-
-/* reset styles */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-ul {
-  margin: 0;
-}
-
-.link {
-  text-decoration: none;
-  color: currentColor;
-}
-
-.list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-/* components styles */
-/*Block 3*/
-/* layout styles */
-/*Block 4*//*# sourceMappingURL=main.css.map */
