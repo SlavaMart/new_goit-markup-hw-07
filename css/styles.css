@@ -69,7 +69,7 @@ ul {
 } */
 
 
-.btn {
+/* .btn {
 
     font-family: inherit;
     font-weight: 700;
@@ -86,7 +86,7 @@ ul {
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-delay: 0s;
-}
+} */
 
 
 /* Header section */
@@ -317,7 +317,7 @@ ul {
     margin-bottom: 30px;
 } */
 
-.hero-btn {
+/* .hero-btn {
     min-width: 200px;
     min-height: 50px;
     font-family: var(--main-font);
@@ -343,7 +343,7 @@ ul {
 .hero-btn:hover,
 .hero-btn:focus {
     background-color: var(--btn-bg-hover-cl);
-}
+} */
 
 /* Peculiarities */
 
@@ -835,7 +835,7 @@ ul {
 
 }
 
-.footer-btn {
+/* .footer-btn {
     font-weight: 700;
     font-size: 16px;
     line-height: calc(30/16);
@@ -854,7 +854,7 @@ ul {
     padding-left: 28px;
     padding-right: 28px;
     cursor: pointer;
-}
+} */
 
 .footer-sibcribe-icon {
     fill: var(--white-txt-cl);
@@ -924,7 +924,7 @@ Socials icons
     margin-right: 0px;
 }
 
-.filter-btn {
+/* .filter-btn {
 
     font-family: inherit;
     margin-left: 8px;
@@ -940,9 +940,9 @@ Socials icons
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-delay: 0s;
-}
+} */
 
-.filter-btn:hover,
+/* .filter-btn:hover,
 .filter-btn:focus {
     background-color: var(--acceny-txt-cl);
     color: var(--white-txt-cl);
@@ -960,7 +960,7 @@ Socials icons
     line-height: calc(26 / 14);
     letter-spacing: 0.03em;
     color: var(--main-txt-cl);
-}
+} */
 
 /* .examples-list {
     display: flex;
@@ -1115,7 +1115,7 @@ Socials icons
     transform: translate() scale(1) rotate(0);
 }
 
-.modal-btn {
+/* .modal-btn {
     position: absolute;
     width: 30px;
     height: 30px;
@@ -1144,7 +1144,7 @@ Socials icons
 .modal-btn:hover,
 .modal-btn:focus {
     fill: var(--acceny-txt-cl);
-}
+} */
 
 /* MODAL FORM */
 
@@ -1249,7 +1249,7 @@ Socials icons
     fill: var(--acceny-txt-cl);
 }
 
-.register-form-btn {
+/* .register-form-btn {
     display: block;
     align-items: center;
     justify-content: center;
@@ -1281,14 +1281,14 @@ Socials icons
     transition-delay: 0s;
 
     cursor: pointer;
-}
+} */
 
 
-.register-form-btn:hover,
+/* .register-form-btn:hover,
 .register-form-btn:focus {
     background: var(--btn-bg-hover-cl);
 
-}
+} */
 
 /* Form registration*/
 
