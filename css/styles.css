@@ -90,7 +90,7 @@ ul {
 
 
 /* Header section */
-.header {
+/* .header {
     border-bottom: 1px solid var(--line-cl)
 }
 
@@ -101,13 +101,13 @@ ul {
 
 .logo {
     margin-right: 93px;
-}
+} */
 
 .header-nav {
     margin-right: auto;
 }
 
-.header-list,
+/* .header-list,
 .header-cont-list {
     display: flex;
     gap: 50px;
@@ -126,18 +126,16 @@ ul {
     line-height: calc(31 / 26);
     letter-spacing: 0.03em;
     color: var(--acceny-txt-cl);
-}
+} */
 
-.header-nav,
-.header-list,
-.header-cont-list {
+.header-nav {
     font-weight: 500;
     font-size: 14px;
     line-height: calc(16 / 14);
     letter-spacing: 0.02em;
 }
 
-.header-link,
+/* .header-link,
 .header-phone,
 .header-mail {
     display: inline-block;
@@ -180,9 +178,9 @@ ul {
 
 .header-mail-container {
     display: flex;
-}
+} */
 
-.mail-icon {
+/* .mail-icon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -202,9 +200,9 @@ ul {
 .header-phone-txt {
     display: flex;
     margin-left: 10px;
-}
+} */
 
-.header-phone-container {
+/* .header-phone-container {
     display: flex;
 }
 
@@ -219,9 +217,9 @@ ul {
     align-items: center;
     justify-content: center;
     gap: 30px;
-}
+} */
 
-.contact {
+/* .contact {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -270,7 +268,7 @@ ul {
 
     background: #2196F3;
     border-radius: 2px;
-}
+} */
 
 
 /* Hero section */
