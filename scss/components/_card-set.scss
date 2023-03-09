@@ -1,0 +1,72 @@
+.examples-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.examples-item {
+  width: 370px;
+  height: 404;
+
+  background: var(--cards-cl);
+  border: 1px solid var(--card-bg);
+
+  transition-property: box-shadow;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-delay: 0s;
+
+  position: relative;
+  overflow: hidden;
+}
+
+.examples-picture {
+  position: relative;
+  overflow: hidden;
+}
+
+.examples-img-link:hover .overlay {
+  transform: translateY(0);
+}
+
+.examples-item:hover {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+    1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+.examples-box {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 24px;
+}
+
+.example-subtitle {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: calc(36 / 18);
+  letter-spacing: 0.06em;
+  color: var(--main-txt-cl);
+}
+
+.example-desc {
+  font-size: 16px;
+  line-height: calc(30 / 16);
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
+  color: var(--contct-txt-cl);
+  margin-top: 4px;
+}
+
+.example-desc {
+  font-size: 16px;
+  line-height: calc(30 / 16);
+  // identical to box height, or 188%
+  letter-spacing: 0.03em;
+  color: var(--contct-txt-cl);
+  margin-top: 4px;
+}
+
+.examples-list {
+  padding-bottom: 94px;
+}

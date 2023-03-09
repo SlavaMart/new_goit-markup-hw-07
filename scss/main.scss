@@ -7,8 +7,11 @@
 @import "./base/reset";
 
 /* components styles */
-@import "./components/buttons";
 @import "./components/card-set";
+@import "./components/container";
+@import "./components/section";
+@import "./components/buttons";
+@import "./components/titles";
 
 /* layout styles */
 @import "./layout/header";
